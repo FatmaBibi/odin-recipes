@@ -1,5 +1,7 @@
 # odin-recipes
 My First Odin Project!
-This is my first HTML project where i will build a recipe website. 
-I will have created an index page consisting of links to a few recipe pages.
-I will have created links to various pages wothin my websiote and created will have added images 
+This is my first HTML project 
+In this project i will be creating a website.
+The website will consist of an Index page with links to a few of my favourtite pakistani dishes.
+The recipe pages will consist of an image of the dish alongside details of ingredients and instructions on how to make the delicious meal!
+Hope you enjoy! 
